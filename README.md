@@ -1,1 +1,2 @@
 # OTP_Verification
+OTP verification is a project that aims to provide a secure and convenient way of authenticating users online. OTP stands for one-time password, which is a randomly generated code that is sent to the user’s phone and expires after a short period of time. This Project describes a method of generating 4 digit OTP and sending it to the phone number for verification using Twilio and Tkinter libraries in Python. 
